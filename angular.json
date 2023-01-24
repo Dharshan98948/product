@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "medicinez"
+    }
+  },
+  "defaultProject": "medicinez",
+  "cli": {
+    "analytics": false
+  }
 }
